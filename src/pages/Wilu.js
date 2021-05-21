@@ -3,7 +3,7 @@ import React from 'react'
 export const Wilu = () => {
     return (
         <div className="parallax-ap">
-            <h1 className="ap-title">12 Nice Things about you!!</h1>
+            <h1 className="sp-title">12 Nice Things about you!!</h1>
             <div>
             <div className="sp-container">
                 <ol className='ol-w'>
