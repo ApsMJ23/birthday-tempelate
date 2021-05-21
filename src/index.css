@@ -255,7 +255,8 @@ Navbar
 }
 
 .overlap {
-  height: 40vw;
+  height: 50vh;
+  width: 30vw;
   border-radius: 20%;
   position: relative;
 }
