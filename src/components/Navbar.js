@@ -6,7 +6,7 @@ import '../index.css'
 
 export const Navbar = () => {
     return (
-        <nav className='navbar bg-transparent navbar-expand-lg navbar-light fixed-top'>
+        <nav className='navbar bg-dark navbar-expand-lg navbar-light fixed-top'>
             <div className="navheader navbar-header">
                 <Link to='/'>
                 <img src={logo} alt="logo" className='logo'/>
